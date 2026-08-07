@@ -73,7 +73,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
-<img width="760" height="552" alt="ATM-CLASS" src="https://github.com/user-attachments/assets/6c3f673e-3240-4829-aae8-dfe3efce95a9" />
+<img width="1012" height="645" alt="ATM-CLASS" src="https://github.com/user-attachments/assets/8da7eb8b-b865-476e-8b03-1b8d23eee1f2" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -82,7 +83,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-<img width="961" height="827" alt="ATM-COMMUNICATION_DIAGRAM" src="https://github.com/user-attachments/assets/4ffe4e1c-e980-4afa-b5ea-72848a75ac2a" />
+<img width="736" height="482" alt="ATM-COMMUNICATION" src="https://github.com/user-attachments/assets/d93be4b9-2611-4550-aed1-6fd2e530f657" />
+
 
 
 
@@ -135,7 +137,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-<img width="1147" height="790" alt="ATM-SEQUENCE" src="https://github.com/user-attachments/assets/24c8d542-fd58-46c1-a043-58dedd2f3bac" />
+<img width="925" height="632" alt="ATM-SEQUENCE" src="https://github.com/user-attachments/assets/344215c8-4e5a-4aef-bf51-b2352c549e94" />
+
 
 
 
